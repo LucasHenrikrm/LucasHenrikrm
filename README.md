@@ -14,7 +14,7 @@
 </div>
 
 ###### sobre mim:
-<p align="justify"> Atualmente estou estudando no curso de DSM na FATEC Diadema. Além disso, desenvolvo alguns projetos na área de GameDev. Sempre demonstrando minha experiência em projetos acadêmicos e pessoais com a finalidade de criar experiências digitais que ajudem as pessoas.</p>
+<p align="justify"> Atualmente estou estudando no curso de DSM na FATEC Diadema (1° Semestre). Além disso, desenvolvo alguns projetos na área de GameDev. Sempre demonstrando minha experiência em projetos acadêmicos e pessoais com a finalidade de criar experiências digitais que ajudem as pessoas.</p>
 
 ---
 
