@@ -31,4 +31,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=LucasHenrikrm&icon=9&color=4)](https://visitcount.itsvg.in)
 
+ <img width="10%" src="https://i.imgur.com/R1dREm2.gif"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
