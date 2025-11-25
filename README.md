@@ -18,13 +18,13 @@
 
 ---
 
-## _💻 Ferramentas e Stacks 🍷:_
+## 💻 Ferramentas e Stacks 🍷:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
     
 ---
 
-## _📊 Estatísticas 🕸:_
+## 📊 Estatísticas 🕸:
 ![](https://nirzak-streak-stats.vercel.app/?user=LucasHenrikrm&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=LucasHenrikrm&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
